@@ -12,7 +12,7 @@ BusinessAnalysis is a comprehensive Python project that performs multi-table dat
 
 ## Technologies Used
 - Python 3.x
-- pandas, numpy, matplotlib, seaborn
+- pandas, numpy, matplotlib
 - VS code
 
 ## How to Run

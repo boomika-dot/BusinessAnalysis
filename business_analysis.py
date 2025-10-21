@@ -301,7 +301,7 @@ def analyze_automation_opportunities(automation):
         df['roi_estimate'] = pd.to_numeric(df['roi_estimate'], errors='coerce')
 
     else:
-        print("⚠️ Warning: 'roi_estimate' column not found in automation data.")
+        print(" Warning: 'roi_estimate' column not found in automation data.")
         return df
 
     # --- Step 3: Time Investment Analysis ---
